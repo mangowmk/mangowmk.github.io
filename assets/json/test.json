@@ -1,0 +1,10 @@
+{
+    "plot_info": {
+        "plot_type": "imshow",
+        "cmap": "jet",
+        "data_path": "./simdata.npy"
+    },
+    "interacted_variable": {
+        "cmap_variable": "jet"
+    }
+}
